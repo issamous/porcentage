@@ -15,6 +15,9 @@
 	</div>
 </div>
 
+
+
+
 <body>
 	
 <p>Barre de progression PHP : Demonstration</p>
