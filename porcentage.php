@@ -4,7 +4,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
- <title> Change Tire de page mofi </title>
+ <title> Change Tire de page mofi rien de special </title>
 </head>
 
 <div id="conteneur" style="display:none; background-color:transparent; position:absolute; top:100px; left:5%; margin-right:5%; height:50px; width:90%; border:1px solid #000000;">
